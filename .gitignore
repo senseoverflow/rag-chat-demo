@@ -1,0 +1,12 @@
+.venv/
+venv/
+.env
+index.json
+__pycache__/
+*.pyc
+.pytest_cache/
+.idea/
+*.egg-info/
+# Flutter
+app/.dart_tool/
+app/build/
